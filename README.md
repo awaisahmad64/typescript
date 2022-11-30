@@ -12,22 +12,22 @@ IDE support
 
 Prerequisite of typescript
 
--- NodeJs and npm
--- Modern editor (My recommendation is VSCode)
--- A basic idea about javascript
+- NodeJs and npm
+- Modern editor (My recommendation is VSCode)
+- A basic idea about javascript
 
 #Topics That We will discuss here
 
--- Basic Syntax
--- Functions
--- Tuples
--- Interface
--- Type and variable
--- Number Strings
--- Union 
--- Objects
--- Operators 
--- Array 
--- Class 
--- Much More
+- Basic Syntax
+- Functions
+- Tuples
+- Interface
+- Type and variable
+- Number Strings
+- Union 
+- Objects
+- Operators 
+- Array 
+- Class 
+- Much More
 
