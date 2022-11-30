@@ -1,5 +1,5 @@
 # TypeScript
----
+```
 Typescript is not a programming language, it is a superset of javscript object-oriented and developed by Mircosoft.
 Easy Code Management
 Support ECMAScript
@@ -22,4 +22,4 @@ Operators
 Array 
 Class 
 Much More
----
+```
