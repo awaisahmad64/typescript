@@ -16,7 +16,7 @@ Prerequisite of typescript
 - Modern editor (My recommendation is VSCode)
 - A basic idea about javascript
 
-#Topics That We will discuss here
+# Topics That We will discuss here
 
 - Basic Syntax
 - Functions
