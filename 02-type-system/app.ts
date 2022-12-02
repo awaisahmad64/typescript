@@ -30,3 +30,4 @@ function demoOptionalParameter(name?: string) {
     console.log('Hello' + name + '!');
   }
   console.log('Hello');
+}
