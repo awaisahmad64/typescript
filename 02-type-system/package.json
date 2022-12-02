@@ -1,0 +1,15 @@
+{
+  "name": "01-getting-started",
+  "version": "1.0.0",
+  "description": "Typescript is not a programming language, it is a superset of javscript object-oriented and developed by Mircosoft.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^4.9.3"
+  }
+}
