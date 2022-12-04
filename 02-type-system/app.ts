@@ -30,3 +30,8 @@ function demoOptionalParameter(name?: string) {
     console.log('Hello' + name + '!');
   }
   console.log('Hello');
+}
+
+// string array
+const nameArray: string[] = [];
+nameArray.push('Awais');
