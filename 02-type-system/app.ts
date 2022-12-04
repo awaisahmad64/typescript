@@ -31,7 +31,10 @@ function demoOptionalParameter(name?: string) {
   }
   console.log('Hello');
 }
+<<<<<<< HEAD
 
 // string array
 const nameArray: string[] = [];
 nameArray.push('Awais');
+=======
+>>>>>>> 21c2be953631c8588d14d142cc198f54134dd81c
