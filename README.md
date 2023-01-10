@@ -16,6 +16,16 @@ Prerequisite of typescript
 - Modern editor (My recommendation is VSCode)
 - A basic idea about javascript
 
+# TypeScript setup for Development
+
+- npm init // to create package.json
+- npm install typescript --save-dev //install package
+- create a file with extension .ts
+- compile file with command tsc demo.ts
+- it will create a js file .js
+- now run command
+- node demo.js
+
 # Topics That We will discuss here
 
 - Basic Syntax
