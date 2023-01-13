@@ -43,6 +43,8 @@ Prerequisite of typescript
 
 ```
 npm i for installing dependencies
-tcs index.ts
-use
+tsc index.ts
+node index.js
+OR
+tsc filename.ts && node filename.js
 ```
