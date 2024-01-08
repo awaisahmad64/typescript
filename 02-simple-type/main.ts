@@ -6,3 +6,6 @@ const firstName: string = 'Awais';
 console.log(firstName);
 // create a lastName variable, string type using implicit type
 let lastName = 'Ahmad';
+// array in typescript
+const names: string[] = [];
+names.push('Awais Ahmad');
