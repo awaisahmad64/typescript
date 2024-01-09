@@ -2,22 +2,16 @@
 // 1.Explicit means directly or well-explained
 // 2.Implicit means indirectly or impiles
 // create a firstName variable, string type uisng Explicit type
-const firstName: string = 'Awais';
+var firstName = 'Awais';
 console.log(firstName);
-
 // create a lastName variable, string type using implicit type
 //let lastName = 'Ahmad';
 // array in typescript
-const names: string[] = [];
+var names = [];
 names.push('Awais Ahmad');
 console.log(names);
-
-interface User {
-  name: string;
-  id: number;
-}
-const user: User = {
-  name: 'awiasahmad',
-  id: 1.7,
+var user = {
+    name: 'awiasahmad',
+    id: 1.7
 };
 console.log(user);
