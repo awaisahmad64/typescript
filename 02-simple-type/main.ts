@@ -8,7 +8,7 @@ console.log(firstName);
 // create a lastName variable, string type using implicit type
 //let lastName = 'Ahmad';
 // array in typescript
-const names: string[] = [];
+const names: readonly string[] = [];
 names.push('Awais Ahmad');
 console.log(names);
 
