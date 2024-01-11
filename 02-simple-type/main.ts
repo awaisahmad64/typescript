@@ -9,7 +9,7 @@ console.log(firstName);
 //let lastName = 'Ahmad';
 // array in typescript
 const names: readonly string[] = [];
-names.push('Awais Ahmad');
+//names.push('Awais Ahmad');
 console.log(names);
 
 interface User {
