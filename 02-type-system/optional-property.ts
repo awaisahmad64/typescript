@@ -3,3 +3,5 @@ function printName(obj: { first: string; last?: string }) {
 }
 printName({ first: 'Awais' });
 printName({ first: 'Awais', last: 'Ahmad' });
+
+
