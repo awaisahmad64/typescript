@@ -6,6 +6,7 @@ let ourTuple: readonly [number, boolean, string];
 
 // initialize correctly
 ourTuple = [64, false, 'Welcome to coding with Awais'];
+// if we disturb its order it will generate error
 
 // we have no type safty in our tuple for indexes 3+
 // ourTuple.push('no type safty');
@@ -18,5 +19,5 @@ console.log(ourTuple);
 //Named tuples allow us to provide context for our values at each indexes.
 const graph: [x: number, y: number] = [12, 34];
 // tuple destructuring
-const [x,y] = graph;
-console.log(x,y)
+const [x, y] = graph;
+console.log(x, y);
