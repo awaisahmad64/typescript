@@ -5,3 +5,4 @@ function returnValueTest(obj: string | string[]) {
   return obj;
 }
 console.log(returnValueTest("array"));
+console.log(returnValueTest(["Awais Ahmad"]));
