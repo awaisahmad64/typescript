@@ -11,8 +11,10 @@ ourTuple = [64, false, 'Welcome to coding with Awais'];
 console.log(ourTuple);
 //Named Tupls
 //Named tuples allow us to provide context for our values at each indexes.
+// tuple order should same
 var graph = [12, 34];
 // tuple destructuring
-var x = graph[0], y = graph[1];
+var x = graph[0],
+  y = graph[1];
 console.log(x, y);
-keepa 
+keepa;
